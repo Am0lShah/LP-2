@@ -1,0 +1,306 @@
+## 1. What is Cloud Computing with example?
+Cloud computing is the on-demand delivery of IT resources-such as servers, storage, databases, networking, software, and analytics-over the internet, allowing users to access and use these resources without owning or managing physical infrastructure. For example, using Google Drive to store and share files online is a form of cloud computing[88][91][92].
+
+## 2. Who is the father of cloud computing?
+Dr. Joseph Carl Robnett Licklider is widely regarded as the "father of cloud computing" for his pioneering work on ARPANET, which laid the foundation for network-based computing.
+
+## 3. List down the basic characteristics of cloud computing
+- On-demand self-service
+- Broad network access
+- Resource pooling
+- Rapid elasticity
+- Measured service[89]
+
+## 4. What do you mean by Vertical and Horizontal scaling in Cloud Computing?
+- Vertical scaling: Increasing the capacity of a single server (e.g., adding more RAM or CPU).
+- Horizontal scaling: Adding more servers to distribute the load and increase capacity.
+
+## 5. What are the services provided by Cloud Computing?
+- Infrastructure as a Service (IaaS)
+- Platform as a Service (PaaS)
+- Software as a Service (SaaS)[85][88][91][92]
+
+## 6. What are different models in Deployment in Cloud Computing?
+- Public cloud
+- Private cloud
+- Hybrid cloud[89]
+
+## 7. Mention the platforms used for Large Scale Cloud Computing
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+
+## 8. Mention the name of some large cloud providers and databases
+- Providers: AWS, Microsoft Azure, Google Cloud, IBM Cloud
+- Databases: Amazon RDS, Google Cloud SQL, Azure SQL Database
+
+## 9. Explain the difference between cloud and traditional datacenters
+
+| Aspect           | Cloud Computing                | Traditional Datacenter       |
+|------------------|-------------------------------|-----------------------------|
+| Ownership        | Third-party provider           | Owned by organization       |
+| Scalability      | Highly scalable on demand      | Limited, manual scaling     |
+| Cost             | Pay-as-you-go                  | High upfront investment     |
+| Maintenance      | Provider-managed               | Organization-managed        |
+
+## 10. What are the different components required in cloud computing?
+- Frontend platform (client devices)
+- Backend platform (servers, storage)
+- Network
+- Cloud-based delivery[84]
+
+## 11. What are the different platforms of cloud architecture?
+- AWS, Azure, Google Cloud Platform, IBM Cloud, Oracle Cloud
+
+## 12. What is a cloud service?
+A cloud service is any computing resource (infrastructure, platform, or software) delivered over the internet and managed by a third-party provider[85][86][87][88].
+
+## 13. List down the basic clouds in cloud computing
+- Public cloud
+- Private cloud
+- Hybrid cloud
+
+## 14. What are some issues with Cloud Computing?
+- Security and privacy concerns
+- Downtime and outages
+- Compliance and legal issues
+- Limited control and flexibility
+
+## 15. Mention the services provided by Windows Azure Operating System
+- Virtual machines
+- App services
+- SQL databases
+- Storage
+- Networking[91]
+
+## 16. What is Cloud Computing Architecture?
+Cloud computing architecture is the combination of components and subcomponents required for cloud computing, including frontend and backend platforms, a network, and cloud-based delivery[84][83].
+
+## 17. What are the Services provided by AWS?
+- Compute (EC2)
+- Storage (S3)
+- Databases (RDS, DynamoDB)
+- Networking (VPC)
+- AI/ML, Analytics, Security, and more[88]
+
+## 18. What are the Services provided by Microsoft?
+- Azure Virtual Machines
+- Azure App Services
+- Azure SQL Database
+- Azure Storage
+- Azure AI and analytics[91]
+
+## 19. What is Virtualization?
+Virtualization is the creation of virtual versions of resources (servers, storage, networks) to maximize hardware utilization and flexibility.
+
+## 20. What is an EC2 instance?
+An EC2 instance is a virtual server in Amazon's Elastic Compute Cloud (EC2) for running applications on AWS[88].
+
+## 21. What is AMI in EC2?
+AMI (Amazon Machine Image) is a template that contains the software configuration (OS, application server, applications) required to launch an EC2 instance.
+
+## 22. How to launch an on-demand EC2 instance in AWS?
+- Log in to AWS Console
+- Go to EC2 Dashboard
+- Click "Launch Instance"
+- Choose an AMI
+- Select instance type
+- Configure instance details
+- Add storage
+- Configure security group
+- Launch instance
+
+## 23. What is Google App Engine?
+Google App Engine is a Platform as a Service (PaaS) that lets you build and host applications on Google’s infrastructure.
+
+## 24. What are advantages of Google App Engine?
+- Automatic scaling
+- Managed infrastructure
+- Supports multiple languages
+- Integrated with Google Cloud services
+
+## 25. What are the steps to install and configure Google App Engine?
+- Install Google Cloud SDK
+- Initialize SDK and authenticate
+- Create a project in Google Cloud Console
+- Deploy your application using the SDK
+
+## 26. What is Apex?
+Apex is a strongly typed, object-oriented programming language used for developing applications on the Salesforce platform.
+
+## 27. What are the Features of Apex as language?
+- Strongly typed
+- Object-oriented
+- Built-in support for DML operations
+- Triggers and classes
+
+## 28. What are the application of Apex?
+- Automating business processes in Salesforce
+- Customizing Salesforce applications
+- Integrating with external systems
+
+## 29. List some Apex Code Development Tools?
+- Salesforce Developer Console
+- Visual Studio Code with Salesforce extensions
+- Eclipse with Force.com IDE
+
+## 30. What are the steps to create application using Apex Programming Language?
+- Create a Salesforce Developer account
+- Write Apex classes/triggers
+- Test and debug code
+- Deploy to production
+
+## 31. What is Salesforce.com Inc.?
+Salesforce.com Inc. is a leading cloud-based software company specializing in CRM (Customer Relationship Management) solutions.
+
+## 32. What is Lightning Platform?
+Lightning Platform is Salesforce’s platform-as-a-service (PaaS) for building and deploying cloud applications.
+
+## 33. How to create Custom Application using Salesforce Classic?
+- Go to Setup
+- Click "Create" > "Apps"
+- Click "New" and follow the wizard to define your app
+
+## 34. What is the difference between custom application and console application in Salesforce?
+
+| Type                  | Custom Application           | Console Application           |
+|-----------------------|-----------------------------|------------------------------|
+| Purpose               | General business processes  | High-volume service/sales    |
+| UI                    | Standard tabs and pages     | Multi-tab workspace          |
+
+## 35. What are the steps to create custom application using Salesforce?
+- Go to Setup
+- Navigate to Apps
+- Click "New"
+- Define app details and add tabs
+- Assign to user profiles
+
+## 36. What is hypervisor in Cloud Computing?
+A hypervisor is software that creates and manages virtual machines by abstracting hardware resources.
+
+## 37. Explain Load Balancing in Cloud Computing.
+Load balancing distributes incoming network traffic across multiple servers to ensure reliability and optimal resource use.
+
+## 38. List the open-source cloud computing platform databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Cassandra
+
+## 39. What are recent trends of Cloud Computing?
+- Serverless computing
+- Edge computing
+- AI/ML integration
+- Multi-cloud strategies
+
+## 40. Applications of Cloud Computing
+- Web hosting
+- Data storage and backup
+- Big data analytics
+- Disaster recovery
+- Internet of Things (IoT)
+- Software development and testing
+
+Citations:
+[1] https://www.spiceworks.com/tech/cloud/articles/what-is-cloud-computing/
+[2] https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+[3] https://en.wikipedia.org/wiki/Cloud_computing
+[4] https://aws.amazon.com/what-is-cloud-computing/
+[5] https://www.investopedia.com/terms/c/cloud-computing.asp
+[6] https://www.techtarget.com/searchcloudcomputing/definition/cloud-computing
+[7] https://www.ibm.com/think/topics/cloud-computing
+[8] https://cloud.google.com/learn/what-is-cloud-computing
+[9] https://www.ibm.com/think/topics/cloud-computing
+[10] https://sourcebae.com/blog/who-is-the-father-of-cloud-computing/
+[11] https://sureshitacademy.com/who-created-cloud-computing/
+[12] https://www.ixambee.com/questions/general-awareness/rbi/225333
+[13] https://insidetelecom.com/meet-the-father-of-cloud-computing/
+[14] https://www.ecpi.edu/blog/a-brief-history-of-cloud-computing
+[15] https://cloudcomputinggate.com/father-of-cloud-computing/
+[16] https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)
+[17] https://www.techtarget.com/searchcloudcomputing/feature/7-key-characteristics-of-cloud-computing
+[18] https://www.synopsys.com/blogs/chip-design/essential-cloud-computing-characteristics.html
+[19] https://www.coursera.org/in/articles/characteristics-of-cloud-computing
+[20] https://www.simplilearn.com/characteristics-of-cloud-computing-article
+[21] https://www.tutorialspoint.com/characteristics-of-cloud-computing
+[22] https://amityonline.com/blog/characteristics-of-cloud-computing
+[23] https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf
+[24] https://u-next.com/blogs/cloud-computing/characteristics-of-cloud-computing/
+[25] https://www.cloudzero.com/blog/horizontal-vs-vertical-scaling/
+[26] https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/
+[27] https://www.digitalocean.com/resources/articles/horizontal-scaling-vs-vertical-scaling
+[28] https://spot.io/blog/horizontal-vs-vertical-scaling-in-the-cloud/
+[29] https://www.esds.co.in/blog/what-is-the-difference-between-horizontal-vertical-scaling/
+[30] https://www.stormit.cloud/blog/scalability-in-cloud-computing-horizontal-vs-vertical-scaling/
+[31] https://aws.amazon.com/what-is-cloud-computing/
+[32] https://www.exitcertified.com/blog/4-cloud-computing-services
+[33] https://www.techtarget.com/searchcloudcomputing/definition/cloud-computing
+[34] https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+[35] https://www.hpe.com/in/en/what-is/cloud-services.html
+[36] https://www.ibm.com/think/topics/cloud-computing
+[37] https://cloud.google.com/discover/types-of-cloud-computing
+[38] https://www.spiceworks.com/tech/cloud/articles/what-is-cloud-computing/
+[39] https://spacelift.io/blog/cloud-deployment-models
+[40] https://k21academy.com/cloud-blogs/cloud-computing-deployment-models/
+[41] https://www.intel.com/content/www/us/en/cloud-computing/deployment-models.html
+[42] https://www.tierpoint.com/blog/cloud-deployment-models/
+[43] https://k21academy.com/cloud-blogs/cloud-fundamentals/
+[44] https://www.visma.com/resources/content/cloud-basics-deployment-models
+[45] https://www.qsstechnosoft.com/blog/cloud-computing-delivery-and-deployment-models
+[46] https://cloud.google.com/discover/types-of-cloud-computing
+[47] https://www.techvertu.co.uk/blog/top-five-platforms-for-large-scale-cloud-computing
+[48] https://www.reddit.com/r/Cloud/comments/uekj1a/which_platforms_are_generally_used_for_large/
+[49] https://www.simplilearn.com/top-cloud-platforms-article
+[50] https://eicta.iitk.ac.in/knowledge-hub/cloud-computing/cloud-computing-platforms/
+[51] https://www.digitalocean.com/resources/articles/cloud-computing-tools
+[52] https://www.cloudbolt.io/blog/what-is-a-cloud-platform/
+[53] https://www.strongdm.com/blog/top-cloud-databases
+[54] https://www.dbmaestro.com/blog/database-automation/top-7-cloud-databases
+[55] https://www.cloudzero.com/blog/cloud-service-providers/
+[56] https://www.simplilearn.com/cloud-databases-across-the-globe-article
+[57] https://www.techtarget.com/searchdatamanagement/tip/Cloud-database-comparison-AWS-Microsoft-Google-and-Oracle
+[58] https://olibr.com/blog/top-12-cloud-databases/
+[59] https://aws.amazon.com/products/databases/
+[60] https://cloud.google.com/products/databases
+[61] https://cyfuture.cloud/kb/differences/what-is-the-difference-between-traditional-data-centers-and-cloud
+[62] https://www.checkpoint.com/cyber-hub/cyber-security/what-is-data-center/data-center-vs-cloud/
+[63] https://www.talend.com/resources/cloud-vs-data-center/
+[64] https://www.techtarget.com/searchdatacenter/tip/Cloud-vs-traditional-data-center-Which-is-right-for-you
+[65] https://www.aztechit.co.uk/blog/cloud-computing-vs-traditional
+[66] https://www.proit.com/what-are-the-difference-between-data-centres-the-cloud-and-the-internet/
+[67] https://dgtlinfra.com/cloud-vs-data-center/
+[68] https://www.cloudoye.com/kb/well-known/what-is-the-difference-between-traditional-data-centers-and-cloud
+[69] https://www.coursera.org/in/articles/components-of-cloud-computing
+[70] https://herovired.com/learning-hub/blogs/cloud-computing-architectures/
+[71] https://cyfuture.cloud/blog/8-components-of-cloud-computing-you-should-know/
+[72] https://spot.io/resources/cloud-optimization/cloud-infrastructure-4-key-components-and-deployment-models/
+[73] https://www.jaroeducation.com/blog/components-of-cloud-computing-architecture/
+[74] https://www.infosectrain.com/blog/what-is-cloud-computing-architecture-and-its-components/
+[75] https://www.upgrad.com/blog/components-of-cloud-computing-architecture/
+[76] https://radixweb.com/blog/guide-to-cloud-computing-architecture
+[77] https://cloud.google.com/learn/what-is-cloud-architecture
+[78] https://www.teradata.com/insights/data-architecture/what-is-cloud-architecture
+[79] https://tech-stack.com/blog/a-complete-guide-to-cloud-architecture-types-benefits-techstack/
+[80] https://en.wikipedia.org/wiki/Cloud_computing_architecture
+[81] https://www.hpe.com/asia_pac/en/what-is/cloud-architecture.html
+[82] https://www.ibm.com/think/topics/cloud-architecture
+[83] https://www.chaossearch.io/blog/cloud-data-platform-architecture-guide
+[84] https://www.nops.io/blog/cloud-architecture-best-practices/
+[85] https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-services
+[86] https://www.hpe.com/in/en/what-is/cloud-services.html
+[87] https://www.citrix.com/glossary/what-is-a-cloud-service.html
+[88] https://aws.amazon.com/what-is-cloud-computing/
+[89] https://en.wikipedia.org/wiki/Cloud_computing
+[90] https://cloud.google.com/learn/what-is-a-cloud-service-provider
+[91] https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+[92] https://www.spiceworks.com/tech/cloud/articles/what-is-cloud-computing/
+[93] https://www.linkedin.com/pulse/ramnath-k-father-modern-cloud-computing-the-pranshul-garg
+[94] https://www.liquidweb.com/blog/7-characteristics-cloud-computing/
+[95] https://en.wikipedia.org/wiki/Platform_as_a_service
+[96] https://www.sam-solutions.com/blog/four-best-cloud-deployment-models-you-need-to-know/
+[97] https://www.singlestore.com/blog/finding-the-best-cloud-database/
+[98] https://cloud.google.com/discover/types-of-cloud-computing
+[99] https://www.techtarget.com/searchcloudcomputing/definition/cloud-computing
+
+---
+Answer from Perplexity: pplx.ai/share
